@@ -4,5 +4,5 @@
 ### Techonologies: HTML5, CSS3
 
 
-[💪🏼 Click to View](https://gloriading.github.io/js_image_viewer/)
+[💪🏼 Click to View](https://gloriading.github.io/html-login-page/)
 ## ![Alt text](img/screenshot.png?raw=true "Login Page")
