@@ -1,6 +1,6 @@
 # LogIn Page
 
-### Learning from Traversy Media 👍🏼
+### Learning from Traversy Media
 ### Techonologies: HTML5, CSS3
 
 
